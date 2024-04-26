@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    background-image: radial-gradient(rgb(0, 140, 255), green, red);
+}
+#a{
+    background-image: url(./ott.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 400px;
+    font-size:100px;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(160, 133, 95);
+    padding-top: 350px;
+    padding-left: 450px;
+
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100vw;
+    height: 100vw;
+    background-color: coral;
+}
+#a{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#b{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 800px;
+    top: 200px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}

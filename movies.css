@@ -1,0 +1,165 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: dimgray;
+}
+#a{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#b{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 600px;
+    top: 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#c{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 1100px;
+    top: 100px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#d{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 100px;
+    top: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#e{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 600px;
+    top: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#f{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 1100px;
+    top: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#g{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 100px;
+    top: 700px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#h{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 600px;
+    top: 700px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#i{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 1100px;
+    top: 700px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#j{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 100px;
+    top: 1000px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#k{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 600px;
+    top: 1000px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#l{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 1100px;
+    top: 1000px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+#m{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 100px;
+    top: 1300px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+#n{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 600px;
+    top: 1300px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+#o{
+    width: 200px;
+    height:200px;
+    position: absolute;
+    left: 1100px;
+    top: 1300px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+}
+
+
+
+
